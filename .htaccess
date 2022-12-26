@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^style\.css$ / [R=301,L]
+RewriteEngine On
+RewriteRule ^script\.js$ / [R=301,L]
